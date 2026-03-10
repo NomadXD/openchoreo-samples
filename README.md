@@ -1,1 +1,1 @@
-# openchoreo-gateway-api-samples
+# openchoreo-samples
